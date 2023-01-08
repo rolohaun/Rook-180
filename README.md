@@ -11,6 +11,7 @@ The goal of this printer is to make a cheap easy to build 3D printer than can be
 
 ## Features:
 
+- 180 x 180 Build Volume
 - 3D Printed Frame
 - CoreXY
 - Triple Belted Z
@@ -22,7 +23,7 @@ The goal of this printer is to make a cheap easy to build 3D printer than can be
 - I use PLA for the prototype and it worked well, ABS and ASA would be great too
 - This printer uses all F695 bearings with some 20t idlers for the belted Z
 
-### [BOM on Google Drive](https://docs.google.com/spreadsheets/d/1oHDEvndkkvPFOBis4atrHRHK_DMTvttFUFWDg2He6To/edit#gid=0)
+### [BOM on Google Drive](https://docs.google.com/spreadsheets/d/1l0jujA7NeqoZIqLFWoQa9GS_q04f8Wfkya9Il5d2ubA/edit#gid=0)
 
 ### [Videos on Youtube](https://www.youtube.com/playlist?list=PLypdl9fsWkKeaa7d5Pv2bP5feIVcw-To2)
 
