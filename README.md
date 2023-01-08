@@ -1,4 +1,4 @@
-# Rook
+# Rook 180
 Welcome to the DIY 3D Printer called Rook 180!
 
 This is a 180x180 build volume printer based on the original Rook
