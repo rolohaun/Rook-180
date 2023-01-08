@@ -25,6 +25,4 @@ The goal of this printer is to make a cheap easy to build 3D printer than can be
 
 ### [BOM on Google Drive](https://docs.google.com/spreadsheets/d/1l0jujA7NeqoZIqLFWoQa9GS_q04f8Wfkya9Il5d2ubA/edit#gid=0)
 
-### [Videos on Youtube](https://www.youtube.com/playlist?list=PLypdl9fsWkKeaa7d5Pv2bP5feIVcw-To2)
-
 ### [Support me on Patreon](https://www.patreon.com/rolohaun)
