@@ -27,4 +27,4 @@ The goal of this printer is to make a cheap easy to build 3D printer than can be
 
 ### [Support me on Patreon](https://www.patreon.com/rolohaun)
 
-### [My Discord] (https://discord.gg/jJSwTtkX6T)
+### [My Discord](https://discord.gg/jJSwTtkX6T)
