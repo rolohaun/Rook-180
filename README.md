@@ -1,4 +1,8 @@
 # Rook 180
+
+# PLEASE NOTE THIS IS OUT OF DATE ROOK 180 MK1 IS COMING SOON
+
+
 Welcome to the DIY 3D Printer called Rook 180!
 
 This is a 180x180 build volume printer based on the original Rook
