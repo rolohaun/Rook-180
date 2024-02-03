@@ -1,7 +1,9 @@
 # Rook 180
 
-# PLEASE NOTE THIS IS OUT OF DATE ROOK 180 MK1 IS COMING SOON
+# PLEASE NOTE THIS IS OUT OF DATE
 
+NEWEST VERSION HERE
+https://www.printables.com/model/748800-bastion-3d-printer
 
 Welcome to the DIY 3D Printer called Rook 180!
 
